@@ -1,4 +1,2 @@
 # stockat
-## A chess engine
-
-Made and maintaned by [Laurens Schunk](https://laurensdschunk.github.io/)
+A chess engine made and maintaned by [Laurens Schunk](https://laurensdschunk.github.io/)
